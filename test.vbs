@@ -23,7 +23,7 @@ Loop
 
 objXLWb.Save
 '~~> Save as Excel File (xls) to retain format
-'objXLWb.SaveAs "C:\Users\joshua.bundt\Downloads\scripts\test1.xlsx", 51
+'objXLWb.SaveAs "C:\test.xlsx"
 
 '~~> File Formats
 '51 = xlOpenXMLWorkbook (without macro's in 2007-2010, xlsx)
